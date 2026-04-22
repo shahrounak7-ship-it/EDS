@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/shahrounak7-ship-it/EDS/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/shahrounak7-ship-it/EDS/main
