@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/2026/17/fastmonkey37125/en/:/",
+    "/content/2026/17/fastmonkey37125/en/configuration:/.helix/config.json",
+    "/content/2026/17/fastmonkey37125/en/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/2026/17/fastmonkey37125/en/"
   ]
 }
